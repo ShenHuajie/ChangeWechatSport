@@ -24,9 +24,9 @@ jobs:
     - name: 修改步数
       run: python3 changebushu_Action.py
       env:
-        USER_PHONE: ${{ secrets.USER_PHONE }}
-        USER_PWD: ${{ secrets.USER_PWD }}
-        STEP: ${{ secrets.STEP }}
+        USER_PHONE: ${{ 17888840925 }}
+        USER_PWD: ${{ hj990925 }}
+        STEP: ${{ 16876 }}
         STEP_MIN: ${{ secrets.STEP_MIN }}
         STEP_MAX: ${{ secrets.STEP_MAX }}
       
