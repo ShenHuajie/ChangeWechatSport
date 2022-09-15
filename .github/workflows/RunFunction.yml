@@ -26,7 +26,7 @@ jobs:
       env:
         USER_PHONE: 17888840925
         USER_PWD: hj990925
-        STEP: ${{ 16876 }}
+        STEP: 16876
         STEP_MIN: ${{ secrets.STEP_MIN }}
         STEP_MAX: ${{ secrets.STEP_MAX }}
       
